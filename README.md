@@ -8,11 +8,17 @@ To write a program to predict the type of species of the Iris flower using the S
 
 ## Algorithm
 Step 1: Start the program.
+
 STEP 2: Import Necessary Libraries and Load Data.
+
 Step 3: Split Dataset into Training and Testing Sets.
+
 Step 4: Train the Model Using Stochastic Gradient Descent (SGD).
+
 Step 5: Make Predictions and Evaluate Accuracy.
+
 Step 6: Generate Confusion Matrix.
+
 STEP 7: Stop the program.
 
 ## Program:
